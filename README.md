@@ -1,5 +1,4 @@
-1. Clone the Repository
-
+1. Clone the Repository:
 git clone https://github.com/KamalChehade/text-search.git
 2. Navigate into the Project Directory
 cd text-search
