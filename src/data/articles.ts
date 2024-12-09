@@ -5,7 +5,7 @@ export interface Article {
 }
 
 export const articles: Article[] = [
-  { id: 1, title: "React Basics", content: "React is a JavaScript library for building user interfaces." },
+  { id: 1, title: "How to become a Front-End Developer,", content: " HTML, CSS, and JavaScript are the basic languages you need to know to create a website.To become a Front-End Developer, start with the subjects." },
   { id: 2, title: "Learning JavaScript", content: "JavaScript is the language of the web, and it's essential to learn." },
   { id: 3, title: "Front-End Frameworks", content: "Frameworks like React, Angular, and Vue.js help developers build applications faster." },
   { id: 4, title: "Introduction to HTML", content: "HTML is the standard markup language for creating web pages." },
